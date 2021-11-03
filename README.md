@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sazouaka
 - 👀 I’m interested in IT
-- 🌱 I’m currently learning web developpement (front_end)
+- 🌱 I’m currently learning web developement (front_end)
 - 💞️ I’m looking to collaborate on a web project
 
 <!---
